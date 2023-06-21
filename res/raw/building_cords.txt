@@ -1,0 +1,4 @@
+Kane Hall (KNE), 47.656634, -122.309159
+Mary Gates Hall (MGH), 47.654941, -122.307936
+Alpha Epsilon Pi (AOPi), 47.661493, -122.306884
+Suzzallo Library, 47.655715, -122.307557
